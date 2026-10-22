@@ -1,12 +1,11 @@
 # Restaurant Sales Dashboard
 ## Project Report
 
-**Project Title:** Restaurant Sales Dashboard Using Python  
-**Student Name:** [Enter Student Name]  
-**Institution:** [Enter Institution Name]  
-**Department:** [Enter Department Name]  
-**Academic Session:** 2026–2027  
-**Project Type:** Python-Based Data Analysis and Visualization
+**Student Name**: Neha Gahlot
+**Roll Number**: RU-25-10878
+**Institution**: Rungta International Skills University
+**Department**: Bachelor of Computer Application Engineering with AI and ML, in association with Google
+**Submission Date**: 24 October 2026
 
 ---
 
