@@ -1,12 +1,15 @@
 # Restaurant Sales Dashboard
 ## Project Report
 
-**Student Name**: Neha Gahlot
-**Roll Number**: RU-25-10878
-**Institution**: Rungta International Skills University
-**Department**: Bachelor of Computer Application Engineering with AI and ML, in association with Google
-**Submission Date**: 24 October 2026
+**Student Name:** Neha Gahlot
 
+**Roll Number:** Not provided
+
+**Institution:** Rungta International Skills University
+
+**Department:** Bachelor of Computer Application Engineering with AI and ML, in association with Google
+
+**Submission Date:** 24 October 2026
 ---
 
 ## Abstract
