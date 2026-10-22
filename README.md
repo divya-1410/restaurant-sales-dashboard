@@ -150,3 +150,13 @@ This project is intended for educational and demonstration purposes.
 ## Author
 
 Project repository maintained by the repository owner.
+
+## Project Screenshots
+
+### Revenue by Menu Item
+
+![Revenue by Menu Item](docs/screenshots/revenue_by_item.png)
+
+### Daily Revenue
+
+![Daily Restaurant Revenue](docs/screenshots/daily_revenue.png)
